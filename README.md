@@ -28,3 +28,7 @@
 #Wishist
 
 ![1_wTWKJucoLntOTjYohDmJlg (1)](https://user-images.githubusercontent.com/95916859/150794647-8d494096-c030-4bf7-afb9-cea03a131a90.png)
+
+#Cart page
+
+![1_SaNyxAPkcyZ2HWDe90L7rA](https://user-images.githubusercontent.com/95916859/150794782-d1aa99f3-9404-4ce2-adb1-4f32e73c1579.png)
