@@ -63,14 +63,42 @@
 9. News page
 10. Help page
 
-Execution..
-Want to run in your local Machine? Great!
+# Execution..
+- Want to run in your local Machine? Great!
 
 To run, follow these steps:
 
-Clone my repository https://github.com/taherahmed14/Groww-Clone
-Open that code in your VS code Front end/groww_home.html
-Open the groww_home.html on Live server
-Initialise the server node server.js on terminal
-Then you can Navigate through other pages from Home page like groww_products.html, groww_product_description.html etc
+- Clone my repository https://github.com/sathish-02/Epic_Games.git
+- Open that code in your VS code Project Files/index.html
+- Open the index.html on Live server
+- Initialise the server node server.js on terminal
+- Then you can Navigate through other pages from Home page like Browse.html, gameDetailsData.html etc
 
+# Built with
+- HTML
+- CSS
+- Advance JavaScript (ES6)
+- DOM
+- Basics of node js
+
+# DOM-Events & Attributes
+- addEventListener()
+- getElementById()
+- setAttribute()
+- onclick()
+- createElement() ..etc.
+- Local storage methods
+- localStorage.getItem()
+- localStorage.setItem()
+
+# APIs
+1.https://newsapi.org/v2/everything?q=games&apiKey=[api_key] 
+2.Npm mock server
+
+# Creators
+- @Sathish
+- @arun
+- @Nitish8800
+- @tushar's_branch
+- @Shantanu
+- @Salakha S
