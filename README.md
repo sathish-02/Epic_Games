@@ -20,3 +20,7 @@
 ![1_7iB2d-zbGKuqJHcSX_3HJg](https://user-images.githubusercontent.com/95916859/150793701-1c4a25d1-ee88-4ac4-91d8-7c875dffd977.png)
 ![1_8_o877l2YOrzPJmPfFVEcA](https://user-images.githubusercontent.com/95916859/150793702-d7515150-6d47-4928-bfc5-7b52750b9db0.png)
 ![1_wTWKJucoLntOTjYohDmJlg](https://user-images.githubusercontent.com/95916859/150793712-ab14e0f4-a067-4429-9858-cd6b79ffd334.png)
+
+#Game data page 
+
+![1_5I-XLEKVhf83B7baBP3oVg](https://user-images.githubusercontent.com/95916859/150794028-b3fbb1d0-bb4e-49fd-9168-f8a32caff1c9.png)
