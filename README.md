@@ -21,29 +21,29 @@
 ![1_8_o877l2YOrzPJmPfFVEcA](https://user-images.githubusercontent.com/95916859/150793702-d7515150-6d47-4928-bfc5-7b52750b9db0.png)
 ![1_wTWKJucoLntOTjYohDmJlg](https://user-images.githubusercontent.com/95916859/150793712-ab14e0f4-a067-4429-9858-cd6b79ffd334.png)
 
-#Game data page 
+# Game data page 
 
 ![1_5I-XLEKVhf83B7baBP3oVg](https://user-images.githubusercontent.com/95916859/150794028-b3fbb1d0-bb4e-49fd-9168-f8a32caff1c9.png)
 
-#Wishist
+# Wishist
 
 ![1_wTWKJucoLntOTjYohDmJlg (1)](https://user-images.githubusercontent.com/95916859/150794647-8d494096-c030-4bf7-afb9-cea03a131a90.png)
 
-#Cart page
+# Cart page
 
 ![1_SaNyxAPkcyZ2HWDe90L7rA](https://user-images.githubusercontent.com/95916859/150794782-d1aa99f3-9404-4ce2-adb1-4f32e73c1579.png)
 
-#Payment Page
+# Payment Page
 
 ![Capture](https://user-images.githubusercontent.com/95916859/150795891-6a37fa83-e098-4a05-b41b-e4b35316c79e.PNG)
 
-#Help page
+# Help page
 
 ![1_2QCv_5z2RQAN51texK-0cg](https://user-images.githubusercontent.com/95916859/150796262-5af63cdc-4fb6-4950-8bd6-b5881ee7d9da.png)
 ![1_G6rZa25VAUfJfa-auk-6KA](https://user-images.githubusercontent.com/95916859/150796272-7dec42a3-2697-40a1-9f4d-339758a44267.png)
 ![1_iFPfGsdjCl04Yy4nNNFmng](https://user-images.githubusercontent.com/95916859/150796275-8b16f8c8-a748-435e-99d5-76de45be62ac.png)
 
-#News Page
+# News Page
 
 ![1_HCJFkLGy1qbb-g26yng2wQ](https://user-images.githubusercontent.com/95916859/150796570-dbc90473-814c-4641-b8e6-828eaff8df92.png)
 ![1_rUZ8MWNCDHY6ziy6jVvVgg](https://user-images.githubusercontent.com/95916859/150796579-94da318b-6384-4297-b21b-d7110e2bf3db.png)
