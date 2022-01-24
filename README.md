@@ -42,3 +42,9 @@
 ![1_2QCv_5z2RQAN51texK-0cg](https://user-images.githubusercontent.com/95916859/150796262-5af63cdc-4fb6-4950-8bd6-b5881ee7d9da.png)
 ![1_G6rZa25VAUfJfa-auk-6KA](https://user-images.githubusercontent.com/95916859/150796272-7dec42a3-2697-40a1-9f4d-339758a44267.png)
 ![1_iFPfGsdjCl04Yy4nNNFmng](https://user-images.githubusercontent.com/95916859/150796275-8b16f8c8-a748-435e-99d5-76de45be62ac.png)
+
+#News Page
+
+![1_HCJFkLGy1qbb-g26yng2wQ](https://user-images.githubusercontent.com/95916859/150796570-dbc90473-814c-4641-b8e6-828eaff8df92.png)
+![1_rUZ8MWNCDHY6ziy6jVvVgg](https://user-images.githubusercontent.com/95916859/150796579-94da318b-6384-4297-b21b-d7110e2bf3db.png)
+![1_W9xnLAudajJLLC6hFsSZRA](https://user-images.githubusercontent.com/95916859/150796584-268d7a70-cf5b-4358-b029-001e7693c3b5.png)
