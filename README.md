@@ -24,3 +24,7 @@
 #Game data page 
 
 ![1_5I-XLEKVhf83B7baBP3oVg](https://user-images.githubusercontent.com/95916859/150794028-b3fbb1d0-bb4e-49fd-9168-f8a32caff1c9.png)
+
+#Wishist
+
+![1_wTWKJucoLntOTjYohDmJlg (1)](https://user-images.githubusercontent.com/95916859/150794647-8d494096-c030-4bf7-afb9-cea03a131a90.png)
