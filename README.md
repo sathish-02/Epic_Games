@@ -32,3 +32,7 @@
 #Cart page
 
 ![1_SaNyxAPkcyZ2HWDe90L7rA](https://user-images.githubusercontent.com/95916859/150794782-d1aa99f3-9404-4ce2-adb1-4f32e73c1579.png)
+
+#Payment Page
+
+![Capture](https://user-images.githubusercontent.com/95916859/150795891-6a37fa83-e098-4a05-b41b-e4b35316c79e.PNG)
