@@ -36,3 +36,9 @@
 #Payment Page
 
 ![Capture](https://user-images.githubusercontent.com/95916859/150795891-6a37fa83-e098-4a05-b41b-e4b35316c79e.PNG)
+
+#Help page
+
+![1_2QCv_5z2RQAN51texK-0cg](https://user-images.githubusercontent.com/95916859/150796262-5af63cdc-4fb6-4950-8bd6-b5881ee7d9da.png)
+![1_G6rZa25VAUfJfa-auk-6KA](https://user-images.githubusercontent.com/95916859/150796272-7dec42a3-2697-40a1-9f4d-339758a44267.png)
+![1_iFPfGsdjCl04Yy4nNNFmng](https://user-images.githubusercontent.com/95916859/150796275-8b16f8c8-a748-435e-99d5-76de45be62ac.png)
