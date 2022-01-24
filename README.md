@@ -13,3 +13,10 @@
 ![1_ld8DnBvX77Hf_tD3txJGYg](https://user-images.githubusercontent.com/95916859/150793166-8e26b0ba-65e8-4e89-a74f-394c26f88b68.png)
 ![1_nXluTgGs70cl1_cmHpPrpA](https://user-images.githubusercontent.com/95916859/150793169-f182995f-2cb1-4897-8d95-59b9f555d318.png)
 ![1_Y0xx8SMbeKpEzCIkz2S2JQ](https://user-images.githubusercontent.com/95916859/150793174-79b65689-8cdb-4e0b-a450-cfa1187111ff.png)
+
+
+# Game Description page 
+
+![1_7iB2d-zbGKuqJHcSX_3HJg](https://user-images.githubusercontent.com/95916859/150793701-1c4a25d1-ee88-4ac4-91d8-7c875dffd977.png)
+![1_8_o877l2YOrzPJmPfFVEcA](https://user-images.githubusercontent.com/95916859/150793702-d7515150-6d47-4928-bfc5-7b52750b9db0.png)
+![1_wTWKJucoLntOTjYohDmJlg](https://user-images.githubusercontent.com/95916859/150793712-ab14e0f4-a067-4429-9858-cd6b79ffd334.png)
