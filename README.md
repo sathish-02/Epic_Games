@@ -48,3 +48,17 @@
 ![1_HCJFkLGy1qbb-g26yng2wQ](https://user-images.githubusercontent.com/95916859/150796570-dbc90473-814c-4641-b8e6-828eaff8df92.png)
 ![1_rUZ8MWNCDHY6ziy6jVvVgg](https://user-images.githubusercontent.com/95916859/150796579-94da318b-6384-4297-b21b-d7110e2bf3db.png)
 ![1_W9xnLAudajJLLC6hFsSZRA](https://user-images.githubusercontent.com/95916859/150796584-268d7a70-cf5b-4358-b029-001e7693c3b5.png)
+
+
+# Pages Build
+
+1. Landing Page
+2. Browse Page
+3. Game description Page
+4. Cart Page
+5. Sign in Page
+6. Sign up Page
+7. Wishlist page
+8. Checkout page
+9. News page
+10. Help page
